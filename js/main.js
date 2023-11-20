@@ -5,7 +5,7 @@ const opzioni = {
         return {
             eMails: [],
 
-            completed:false,
+           
         }
 
     },
@@ -23,7 +23,7 @@ const opzioni = {
                 });
 
             } 
-            this.completed=true;
+            
 
         }
 
